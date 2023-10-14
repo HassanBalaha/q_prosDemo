@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="D:/selenium/SeleniumDemoTestNG/src/test/java/com/demoblaze/DemoBlazeAccessTest.java(failed)">
+    <classes>
+      <class name="com.demoblaze.DemoBlazeAccessTest">
+        <methods>
+          <include name="setupBrowser"/>
+          <include name="demoBlazeAccess"/>
+        </methods>
+      </class> <!-- com.demoblaze.DemoBlazeAccessTest -->
+    </classes>
+  </test> <!-- D:/selenium/SeleniumDemoTestNG/src/test/java/com/demoblaze/DemoBlazeAccessTest.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
