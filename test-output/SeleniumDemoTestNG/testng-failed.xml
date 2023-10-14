@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SeleniumDemoTestNG]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="D:/selenium/SeleniumDemoTestNG(failed)">
+    <classes>
+      <class name="SecondTestClass">
+        <methods>
+          <include name="SearchCustomer"/>
+        </methods>
+      </class> <!-- SecondTestClass -->
+    </classes>
+  </test> <!-- D:/selenium/SeleniumDemoTestNG(failed) -->
+</suite> <!-- Failed suite [SeleniumDemoTestNG] -->
