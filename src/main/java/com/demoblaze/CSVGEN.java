@@ -6,11 +6,11 @@ import java.util.Random;
 
 public class CSVGEN {
    //utility class
-    public void Gen1() {
+    public void Gen() {
        try {
 
 
-          String[] Names = {"Hassan1", "Mahmoud1", "Taqy1", "Saleem1", "Noura1", "Amaan1"};
+          String[] Names = {"Hassan13", "Mahmoud14", "Taqy51", "Saleem16", "Noura31", "Amaan18"};
           String[] Passes = {"123456789", "234144456", "123423456", "123423412", "564325643", "123242324"};
           String Pass;
           String Name;
